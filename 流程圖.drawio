@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T17:31:20.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dAvjJ3Shkb1PswryTqxu" version="20.2.7" type="device"><diagram id="CypaR-xeO_n1jcAEBoC6" name="第1頁">7VpLk6M2EP41Om4KEA/pCDaTVCqpSmoOSY6M0drsYsuF8djeX59uIYwB2eMpP/BOzWVGavTi66/VD0zoaL79tUiWsz9lKnLiWOmW0DFxHNtxA/iHkl0l8QMtmBZZqgc1gufsh9BCS0vXWSpWrYGllHmZLdvCiVwsxKRsyZKikJv2sK8yb++6TKaiJ3ieJHlf+k+WlrNKypygkf8msums3tn2efVkntSD9ZusZkkqNwciGhM6KqQsq9Z8OxI5glfjUs17OvJ0f7BCLMpzJiyT31/D9bcX/jdPPTZnzuzL9y+0WuU1ydf6hfVhy12NgEgBEN2VRTmTU7lI8riRRoVcL1KB21jQa8b8IeUShDYIv4my3GntJutSgmhWznP9tNoTNzr6blq0kutiIk68UM2RpJiK8sQ4Z68BoK6Qc1EWO5hXiDwps9f2ORLNoel+XAMzNDTS70Dd7qMecxL6hPuqYRFm9/TQoIyQbWZZKZ6XiQJjA7ZnQvRVFKXYnsa0j4GeQKkmrrbcurtpzMCuuT07MAHfuhFq7hDUBLCK3b+Hnf9wsV8Cr+6Pt3r1qrfTvSty2jmT00f0eTan9dS/ZAYn3PPAs9o86Oq3Opae1Kg4LIpkdzBsiQNWx7dxg/Y2tt+5zt4YDwppE6w6QEO3PSIX2K3z0a7LS69Bs254WzV7F3hlytDuPvZpylw4vO1fb8Qw95Nh5zDsUSn2Xo4NQzL/k1MmR+c8Jqd657LvwRH2EThyTtB0lajp1hwIvAE4YIh24oBwTqKIxB5hHgk9lERUSaDhkejxEhd78MzFOwtI+OsifjHkgR7hQQ9IgKRso1WIVfYjeVED0OTQolaVceHjJM+mC2hPADlRgABxzSZJHuoH8yxNleVqvsI2XkS8MUi+Znk+krmEaeOFXOCgVVnI76IjbNv8FdTn+l5bfbbXU19g0B69lfZqqnycmIydezfyIe7G7tXI3xem8zvcjMxg0IyEIWFjVcBxCQuVZUdoymDrDIR8+JvxSIAz2MXo8I9mWvxM03LYhaZ1Ee4G2LUfGmGD24q/vuJvpEuSvB8R3pu/j0dganDtAxB4X6Xc1yGrKuUdi5T1B5s3mU/9aziVfj3Qb3PDtW+TvbldDnpv1Ck74927ZPiGkAWsmNkkCg8CTQ/9FXexEVlo7EMbeFeJwxu4bfpWowCsvtUwSkKmGhYJqU6C6pBkQCR99nBImpxOoFxMQGKKAAI/IYyKHMLpgUQ5pgjQdjFf4v3i1cBhFLWHhtYxfMbV/jxQbI1J1I8+V5tsnicqibuGb+6Awg2geAZQ2M1AMZTSMZKxCY8VOgyzbjg2xjmWRupQGD6p4Idh8B7hSsTxc0zAXwpoTbGlFoz0FQrL4hVqqTZV1A3wcgD0K2EnG0A+cxRqDfWJ3U/4z8/ou6WBfobfKRYYs3tDFeAsrpyg6VEG2V3H2icQNRDIvRmBgs8L61bQmhLonxLax8OWmmK/ezsDu13DG94b0CO/ubnAGyBhK1DVjc6CT/9wmX+g1klSPZp/oA8Qdblu29Cc4Q3t+mHX1Q1Np78M9QNt/OACy6pzgkuBKYb11Rj0PPUZYDpI+JNa3CHRqD4qx2UxpY4xF/zoNvu+mM7ATpPN3s45+kZ2dgsj+49zDHnzAJXPbmHE6FCvFGZAt/lVclWRan7bTeP/AQ==</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="CypaR-xeO_n1jcAEBoC6" name="第1頁">
+        <mxGraphModel dx="1026" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="paJvAujb9Q9d58m82h-k-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="paJvAujb9Q9d58m82h-k-1" target="paJvAujb9Q9d58m82h-k-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-1" value="首頁" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="paJvAujb9Q9d58m82h-k-2" target="paJvAujb9Q9d58m82h-k-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="500" y="60" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="470" y="160"/>
+                            <mxPoint x="470" y="75"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="paJvAujb9Q9d58m82h-k-2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="90" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="390" y="210"/>
+                            <mxPoint x="90" y="210"/>
+                            <mxPoint x="90" y="220"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="paJvAujb9Q9d58m82h-k-2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="290" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="390" y="210"/>
+                            <mxPoint x="290" y="210"/>
+                            <mxPoint x="290" y="220"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="paJvAujb9Q9d58m82h-k-2" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="390" y="210"/>
+                            <mxPoint x="520" y="210"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="paJvAujb9Q9d58m82h-k-2" target="paJvAujb9Q9d58m82h-k-11" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="390" y="210"/>
+                            <mxPoint x="750" y="210"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-2" value="登入系統" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-5" value="登入失敗" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="465" y="115" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="paJvAujb9Q9d58m82h-k-8" target="paJvAujb9Q9d58m82h-k-19" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="90" y="290"/>
+                            <mxPoint x="90" y="290"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-8" value="認養動物" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="paJvAujb9Q9d58m82h-k-9" target="paJvAujb9Q9d58m82h-k-28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="paJvAujb9Q9d58m82h-k-9" target="paJvAujb9Q9d58m82h-k-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-9" value="公告招領" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="paJvAujb9Q9d58m82h-k-10" target="paJvAujb9Q9d58m82h-k-36" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="430" y="250"/>
+                            <mxPoint x="430" y="420"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-10" value="遺失協尋" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-11" value="外部連結" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="680" y="220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-19" value="狗、貓、其他" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-23" value="內容" style="swimlane;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="390" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-24" value="類別 性別 毛色 &lt;br&gt;體型 品種 動物之家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="paJvAujb9Q9d58m82h-k-23" vertex="1">
+                    <mxGeometry x="10" y="25" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-27" value="狗、貓、其他" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-28" value="狗、貓、其他" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-30" value="內容" style="swimlane;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="390" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-31" value="類別 性別 毛色 照片&lt;br&gt;體型 品種 動物之家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="paJvAujb9Q9d58m82h-k-30" vertex="1">
+                    <mxGeometry x="10" y="25" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-33" value="內容" style="swimlane;" parent="1" vertex="1">
+                    <mxGeometry x="445" y="290" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-34" value="類別 性別 毛色 照片&lt;br&gt;體型 品種 失蹤時間&lt;br&gt;晶片號碼 特徵" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="paJvAujb9Q9d58m82h-k-33" vertex="1">
+                    <mxGeometry x="10" y="20" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="paJvAujb9Q9d58m82h-k-36" value="遺失登記" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
